@@ -72,18 +72,6 @@ python main.py
 
 ---
 
-## Screenshots
-
-### Main Interface
-
-![Home](Screenshot folder/home.png)
-
-### Dark Mode
-
-![Dark Mode](Screenshot folder/dark-mode.png)
-
----
-
 ## Learning Objectives
 
 This project was developed as a learning exercise to explore:
